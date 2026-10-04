@@ -1,0 +1,1467 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Olzura - Multipurpose Woocommerce Store Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form",
+            "screenshot": "screenshots\/form.png",
+            "source": "templates\/form.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Decor",
+            "screenshot": "screenshots\/home-decor.png",
+            "source": "templates\/home-decor.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/home-decor\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Sunglasses",
+            "screenshot": "screenshots\/home-sunglasses.png",
+            "source": "templates\/home-sunglasses.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/home-sunglasses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Coffee",
+            "screenshot": "screenshots\/home-coffee.png",
+            "source": "templates\/home-coffee.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/home-coffee\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product Decor",
+            "screenshot": "screenshots\/product-decor.png",
+            "source": "templates\/product-decor.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/product-decor\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product Sunglasses",
+            "screenshot": "screenshots\/product-sunglasses.png",
+            "source": "templates\/product-sunglasses.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/product-sunglasses\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Products Coffee",
+            "screenshot": "screenshots\/products-coffee.png",
+            "source": "templates\/products-coffee.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/products-coffee\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/about-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.png",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/contact-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Articles",
+            "screenshot": "screenshots\/articles.png",
+            "source": "templates\/articles.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/articles\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.png",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/nva.nirmanavisual.com\/olzura\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Ultimate Addons for Elementor Lite",
+            "version": "2.4.8",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.14",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "JetSticky For Elementor",
+            "version": "1.0.4",
+            "file": "jetsticky-for-elementor\/jetsticky-for-elementor.php",
+            "author": "Crocoblock"
+        },
+        {
+            "name": "RTMKit Addons for Elementor",
+            "version": "1.6.2",
+            "file": "rometheme-for-elementor\/RomeTheme.php",
+            "author": "Rometheme"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "10.1.0",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.31.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.6.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "4.0.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Home-Decor.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Home-Decor-800x519.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                }
+            ],
+            "filesize": 11472,
+            "dimensions": [
+                1682,
+                1092
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Home-Decor-2.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Home-Decor-2-800x524.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                }
+            ],
+            "filesize": 11602,
+            "dimensions": [
+                1668,
+                1092
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Image-Home-Decor-2-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Home-Decor-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                }
+            ],
+            "filesize": 188345,
+            "dimensions": [
+                635,
+                628
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/comfortable-grey-modern-armchair-on-white-DHX7YGK"
+        },
+        {
+            "filename": "Image-Video-Home-Decor.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Video-Home-Decor.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                }
+            ],
+            "filesize": 43013,
+            "dimensions": [
+                188,
+                125
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/comfortable-contemporary-home-living-room-with-sta-K9LP6A7"
+        },
+        {
+            "filename": "Image-Explore-Product-1-Home-Decor.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Explore-Product-1-Home-Decor.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                },
+                {
+                    "source": "templates\/product-decor.json",
+                    "name": "Product Decor"
+                }
+            ],
+            "filesize": 81261,
+            "dimensions": [
+                224,
+                545
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-lamp-on-the-wall-WZ72BUS"
+        },
+        {
+            "filename": "Image-Explore-Product-Home-Decor-2.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Explore-Product-Home-Decor-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                },
+                {
+                    "source": "templates\/product-decor.json",
+                    "name": "Product Decor"
+                }
+            ],
+            "filesize": 196743,
+            "dimensions": [
+                292,
+                545
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/armchair-MTQ4FA6"
+        },
+        {
+            "filename": "Image-Summer-Sale-Home-Decor-1-1-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Summer-Sale-Home-Decor-1-1-1-800x268.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                },
+                {
+                    "source": "templates\/product-decor.json",
+                    "name": "Product Decor"
+                }
+            ],
+            "filesize": 236400,
+            "dimensions": [
+                1861,
+                623
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/comfortable-contemporary-home-living-room-with-sta-K9LP6A7"
+        },
+        {
+            "filename": "Image-Product-Category-Home-Decor.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Product-Category-Home-Decor.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                }
+            ],
+            "filesize": 191167,
+            "dimensions": [
+                308,
+                393
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/blank-poster-frames-mockup-in-modern-interior-back-SL8BXVU"
+        },
+        {
+            "filename": "Testimonial-Image-Home-Decor-3-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Testimonial-Image-Home-Decor-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                },
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 148528,
+            "dimensions": [
+                639,
+                540
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-barista-holding-glass-with-filter-coffee-s-XXUWPR5"
+        },
+        {
+            "filename": "Shape-Rectangle-Testimonial-Home-Decor.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Shape-Rectangle-Testimonial-Home-Decor.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                },
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3291,
+            "dimensions": [
+                792,
+                346
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Image-Testimonial-Home-Decor-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Testimonial-Home-Decor-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                },
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3857,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-enjoys-sunny-day-at-the-park-while-sport-L9J56YH"
+        },
+        {
+            "filename": "Image-Testimonial-Home-Decor-2.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Testimonial-Home-Decor-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                },
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4250,
+            "dimensions": [
+                52,
+                51
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/shot-of-a-young-man-wearing-glasses-and-a-tie-dye--SS58FZZ"
+        },
+        {
+            "filename": "Background-Shape-Subscribe-Olzura.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Background-Shape-Subscribe-Olzura-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                },
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                },
+                {
+                    "source": "templates\/product-decor.json",
+                    "name": "Product Decor"
+                },
+                {
+                    "source": "templates\/product-sunglasses.json",
+                    "name": "Product Sunglasses"
+                },
+                {
+                    "source": "templates\/products-coffee.json",
+                    "name": "Products Coffee"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/articles.json",
+                    "name": "Articles"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 6130,
+            "dimensions": [
+                1296,
+                519
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Shape-Subscribe-Home-Decor-Mobile.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Shape-Subscribe-Home-Decor-Mobile-800x1582.png",
+            "templates": [
+                {
+                    "source": "templates\/home-decor.json",
+                    "name": "Home Decor"
+                },
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                },
+                {
+                    "source": "templates\/product-decor.json",
+                    "name": "Product Decor"
+                },
+                {
+                    "source": "templates\/product-sunglasses.json",
+                    "name": "Product Sunglasses"
+                },
+                {
+                    "source": "templates\/products-coffee.json",
+                    "name": "Products Coffee"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/articles.json",
+                    "name": "Articles"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 11010,
+            "dimensions": [
+                809,
+                1600
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "BG-Home-Sunglasses-4.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/BG-Home-Sunglasses-4-800x377.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                }
+            ],
+            "filesize": 11306,
+            "dimensions": [
+                1789,
+                842
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Ellipse-Home-Sunglasses.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Ellipse-Home-Sunglasses.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                }
+            ],
+            "filesize": 11706,
+            "dimensions": [
+                697,
+                697
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Image-Home-Sunglasses-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Home-Sunglasses-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                }
+            ],
+            "filesize": 158255,
+            "dimensions": [
+                634,
+                799
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/trendy-gay-man-in-sunglasses-and-hat-holding-coffe-D9WSXJ7"
+        },
+        {
+            "filename": "Image-Video-Home-Sunglasses.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Video-Home-Sunglasses.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                }
+            ],
+            "filesize": 24375,
+            "dimensions": [
+                115,
+                125
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-young-man-showcases-modern-fashion-in-a-mi-GTB8ESY"
+        },
+        {
+            "filename": "Image-Product-Best-Home-Sunglasses-3-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Product-Best-Home-Sunglasses-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/product-sunglasses.json",
+                    "name": "Product Sunglasses"
+                }
+            ],
+            "filesize": 74963,
+            "dimensions": [
+                416,
+                549
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/trendy-gay-man-in-sunglasses-and-hat-holding-coffe-D9WSXJ7"
+        },
+        {
+            "filename": "Image-Product-Best-Home-Sunglasses-2-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Product-Best-Home-Sunglasses-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/product-sunglasses.json",
+                    "name": "Product Sunglasses"
+                }
+            ],
+            "filesize": 65195,
+            "dimensions": [
+                416,
+                549
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/full-length-of-tattooed-young-man-in-stylish-sungl-42K5A2P"
+        },
+        {
+            "filename": "Image-Product-Best-Home-Sunglasses-1-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Product-Best-Home-Sunglasses-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/product-sunglasses.json",
+                    "name": "Product Sunglasses"
+                }
+            ],
+            "filesize": 74288,
+            "dimensions": [
+                415,
+                549
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/trendy-man-in-suit-and-sunglasses-standing-isolate-HEAZTWP"
+        },
+        {
+            "filename": "Image-Summer-Sale-Home-Sunglasses-1-1-1-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Summer-Sale-Home-Sunglasses-1-1-1-1-800x260.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/product-sunglasses.json",
+                    "name": "Product Sunglasses"
+                }
+            ],
+            "filesize": 236276,
+            "dimensions": [
+                1920,
+                623
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/low-angle-view-of-young-african-american-adjusting-DGYETE7"
+        },
+        {
+            "filename": "Image-Product-Sunglasses-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Product-Sunglasses-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                },
+                {
+                    "source": "templates\/product-sunglasses.json",
+                    "name": "Product Sunglasses"
+                }
+            ],
+            "filesize": 67363,
+            "dimensions": [
+                353,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/twin-sisters-exude-confidence-while-showcasing-the-ZXKWAJD"
+        },
+        {
+            "filename": "Image-Home-Sunglasses-2-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Home-Sunglasses-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                }
+            ],
+            "filesize": 157357,
+            "dimensions": [
+                480,
+                680
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/confident-trendy-man-in-beige-suite-and-sunglasses-SSMGA9K"
+        },
+        {
+            "filename": "Image-Home-Sunglasses-1-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Home-Sunglasses-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                }
+            ],
+            "filesize": 140231,
+            "dimensions": [
+                480,
+                680
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/trendy-man-in-dark-sunglasses-and-blue-jacket-look-TCYYAK4"
+        },
+        {
+            "filename": "Image-Home-Sunglasses-4-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Home-Sunglasses-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                }
+            ],
+            "filesize": 151962,
+            "dimensions": [
+                480,
+                680
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/sophisticated-man-in-beige-suit-and-sunglasses-FUXMKTY"
+        },
+        {
+            "filename": "Image-Home-Sunglasses-3-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Home-Sunglasses-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                }
+            ],
+            "filesize": 165857,
+            "dimensions": [
+                480,
+                680
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/tattooed-young-man-in-coat-and-stylish-sunglasses--J5LNPX5"
+        },
+        {
+            "filename": "Shape-Rectangle-Testimonial-Home-Decor-Black.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Shape-Rectangle-Testimonial-Home-Decor-Black.png",
+            "templates": [
+                {
+                    "source": "templates\/home-sunglasses.json",
+                    "name": "Home Sunglasses"
+                }
+            ],
+            "filesize": 3372,
+            "dimensions": [
+                792,
+                346
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "BG-Home-Coffe.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/BG-Home-Coffe-800x413.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 12931,
+            "dimensions": [
+                1790,
+                924
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "BG-Home-Coffe-Tablet.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/BG-Home-Coffe-Tablet-800x1359.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 32020,
+            "dimensions": [
+                1790,
+                3041
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Rectangle-Background-Home-Coffe.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Rectangle-Background-Home-Coffe.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 23980,
+            "dimensions": [
+                622,
+                481
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/elements.envato.com\/roasted-coffee-beans-H5M5YTQ"
+        },
+        {
+            "filename": "Image-People-Home-Coffe-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-People-Home-Coffe-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 1740,
+            "dimensions": [
+                26,
+                26
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/he-brings-confidence-to-his-work-staff-DBFSHQR"
+        },
+        {
+            "filename": "Image-People-Home-Coffe-2.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-People-Home-Coffe-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 1711,
+            "dimensions": [
+                27,
+                26
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/full-length-of-businessman-with-hands-in-pocket-54HCPXE"
+        },
+        {
+            "filename": "Image-People-Home-Coffe-3.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-People-Home-Coffe-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 1742,
+            "dimensions": [
+                26,
+                26
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-success-DYDX3HG"
+        },
+        {
+            "filename": "Image-People-Home-Coffe-4.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-People-Home-Coffe-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 1740,
+            "dimensions": [
+                26,
+                26
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/he-brings-confidence-to-his-work-staff-DBFSHQR"
+        },
+        {
+            "filename": "Image-home-Coffe-Hiro-2-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-home-Coffe-Hiro-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 84005,
+            "dimensions": [
+                385,
+                524
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/coffee-maker-isolated-on-a-white-background-X8Q65LH"
+        },
+        {
+            "filename": "Image-Rating-Home-Coffe-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Rating-Home-Coffe-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 5698,
+            "dimensions": [
+                48,
+                75
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/classic-stainless-steel-espresso-coffee-maker-isol-8GGKCPV"
+        },
+        {
+            "filename": "Image-Rating-Home-Coffe-2.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Rating-Home-Coffe-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 6129,
+            "dimensions": [
+                50,
+                78
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/coffee-maker-isolated-MNJYUFR"
+        },
+        {
+            "filename": "Image-Rating-Home-Coffe-3.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Rating-Home-Coffe-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 6640,
+            "dimensions": [
+                64,
+                75
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/coffee-maker-RNXF296"
+        },
+        {
+            "filename": "Image-Summer-Product-Home-Coffe-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Summer-Product-Home-Coffe-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                },
+                {
+                    "source": "templates\/products-coffee.json",
+                    "name": "Products Coffee"
+                }
+            ],
+            "filesize": 165626,
+            "dimensions": [
+                406,
+                919
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/cafe-CQRNG6D"
+        },
+        {
+            "filename": "Image-Summer-Sale-Home-Coffe-1-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Summer-Sale-Home-Coffe-1-1-800x260.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                },
+                {
+                    "source": "templates\/products-coffee.json",
+                    "name": "Products Coffee"
+                }
+            ],
+            "filesize": 226042,
+            "dimensions": [
+                1732,
+                562
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-of-male-hand-holding-portfilter-near-coff-HEVJQU4"
+        },
+        {
+            "filename": "Image-News-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-News-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 93623,
+            "dimensions": [
+                275,
+                270
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/electric-coffee-grinder-grinded-beans-in-portafilt-T4E7C9B"
+        },
+        {
+            "filename": "Image-News-2.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-News-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 134027,
+            "dimensions": [
+                275,
+                270
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/tea-cups-and-black-plates-are-placed-on-the-table--5394ZBD"
+        },
+        {
+            "filename": "Image-News-3.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-News-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 157246,
+            "dimensions": [
+                275,
+                270
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/drip-coffee-barista-pouring-water-on-coffee-ground-NDWYLGW"
+        },
+        {
+            "filename": "Image-News-4.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-News-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-coffee.json",
+                    "name": "Home Coffee"
+                }
+            ],
+            "filesize": 130523,
+            "dimensions": [
+                275,
+                270
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/roasted-coffee-beans-from-colombia-suspended-in-th-D44TVYL"
+        },
+        {
+            "filename": "BG-Heading-Menus-Olzura-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/BG-Heading-Menus-Olzura-1-800x174.png",
+            "templates": [
+                {
+                    "source": "templates\/product-decor.json",
+                    "name": "Product Decor"
+                },
+                {
+                    "source": "templates\/product-sunglasses.json",
+                    "name": "Product Sunglasses"
+                },
+                {
+                    "source": "templates\/products-coffee.json",
+                    "name": "Products Coffee"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/articles.json",
+                    "name": "Articles"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 5157,
+            "dimensions": [
+                1920,
+                417
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "BG-Heading-Menus-Olzura-2.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/BG-Heading-Menus-Olzura-2-800x174.png",
+            "templates": [
+                {
+                    "source": "templates\/product-decor.json",
+                    "name": "Product Decor"
+                },
+                {
+                    "source": "templates\/product-sunglasses.json",
+                    "name": "Product Sunglasses"
+                },
+                {
+                    "source": "templates\/products-coffee.json",
+                    "name": "Products Coffee"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/articles.json",
+                    "name": "Articles"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 5178,
+            "dimensions": [
+                1920,
+                417
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Image-About-Us-Olzura-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-About-Us-Olzura-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 118441,
+            "dimensions": [
+                639,
+                540
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/diverse-colleagues-gather-in-brainstorm-discuss-st-6WT4GBP"
+        },
+        {
+            "filename": "Image-Offline-Store-About-Us-Olzura-2-1-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Offline-Store-About-Us-Olzura-2-1-1-800x381.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 242611,
+            "dimensions": [
+                1158,
+                552
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/buildings-on-main-street-businesses-boarded-up-D2AMXSR"
+        },
+        {
+            "filename": "Logo-Abaout-Us-Olzura-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Logo-Abaout-Us-Olzura-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1678,
+            "dimensions": [
+                73,
+                70
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/delivery-icon-set-YMV8FRU"
+        },
+        {
+            "filename": "Logo-Abaout-Us-Olzura-3.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Logo-Abaout-Us-Olzura-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2621,
+            "dimensions": [
+                88,
+                84
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/delivery-icon-set-YMV8FRU"
+        },
+        {
+            "filename": "Logo-Abaout-Us-Olzura-2.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Logo-Abaout-Us-Olzura-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1450,
+            "dimensions": [
+                72,
+                72
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/delivery-icon-set-YMV8FRU"
+        },
+        {
+            "filename": "Logo-Abaout-Us-Olzura-4.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Logo-Abaout-Us-Olzura-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2013,
+            "dimensions": [
+                106,
+                70
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/delivery-icon-set-YMV8FRU"
+        },
+        {
+            "filename": "Image-Single-Post-Olzura-1-1.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-Single-Post-Olzura-1-1-800x279.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 235759,
+            "dimensions": [
+                1296,
+                452
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/professional-coffee-making-accessories-concept-9X6436C"
+        },
+        {
+            "filename": "Ellipse-404-Olzura.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Ellipse-404-Olzura.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 7161,
+            "dimensions": [
+                439,
+                439
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Image-404-Olzura.png",
+            "thumbnail_url": "https:\/\/nva.nirmanavisual.com\/olzura\/wp-content\/uploads\/sites\/30\/2025\/08\/Image-404-Olzura.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 152788,
+            "dimensions": [
+                411,
+                396
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/floating-black-shopping-basket-with-orange-handles-CHLQ5ZU"
+        }
+    ]
+}

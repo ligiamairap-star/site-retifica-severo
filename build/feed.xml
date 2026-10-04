@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cases Retífica Severo — Guarulhos</title>
+    <link>https://retificasevero.com.br/cases</link>
+    <description>Artigos técnicos sobre retífica de motores, usinagem de precisão e manutenção automotiva em Guarulhos, SP.</description>
+    <language>pt-BR</language>
+    <lastBuildDate>Wed, 05 Mar 2024 08:00:00 -0300</lastBuildDate>
+    <atom:link href="https://retificasevero.com.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <copyright>Copyright 2024 Retífica Severo</copyright>
+    <managingEditor>contato@retificasevero.com.br (Retífica Severo)</managingEditor>
+
+    <item>
+      <title>O que Fazer Quando o Motor "Bate Biela"? Diagnóstico, Causas e Recuperação</title>
+      <link>https://retificasevero.com.br/cases/o-que-e-motor-bater-biela</link>
+      <description>Motor batendo biela não é o fim. Entenda as causas, o diagnóstico correto e quando a retífica de bielas pode salvar o motor.</description>
+      <pubDate>Tue, 05 Mar 2024 08:00:00 -0300</pubDate>
+      <guid>https://retificasevero.com.br/cases/o-que-e-motor-bater-biela</guid>
+      <category>Bielas e Virabrequim</category>
+    </item>
+
+    <item>
+      <title>A Importância do Brunimento Correto dos Cilindros no Serviço de Retífica</title>
+      <link>https://retificasevero.com.br/cases/importancia-brunimento-cilindros</link>
+      <description>Entenda por que o brunimento adequado é fundamental para a durabilidade dos anéis de pistão e a eficiência do motor após a retífica.</description>
+      <pubDate>Sat, 10 Feb 2024 08:00:00 -0300</pubDate>
+      <guid>https://retificasevero.com.br/cases/importancia-brunimento-cilindros</guid>
+      <category>Bloco e Cilindros</category>
+    </item>
+
+    <item>
+      <title>Sinais de que o Cabeçote do Motor Está Empenado — Guia Técnico Completo</title>
+      <link>https://retificasevero.com.br/cases/sinais-cabecote-empenado</link>
+      <description>Identifique os 7 sinais de cabeçote empenado antes de um dano irreversível: fumaça branca, óleo na água, superaquecimento e perda de compressão.</description>
+      <pubDate>Mon, 15 Jan 2024 08:00:00 -0300</pubDate>
+      <guid>https://retificasevero.com.br/cases/sinais-cabecote-empenado</guid>
+      <category>Cabeçote</category>
+    </item>
+
+  </channel>
+</rss>

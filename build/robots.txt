@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /404.html
+Disallow: /privacidade.html
+
+Sitemap: https://retificasevero.com.br/sitemap.xml

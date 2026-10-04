@@ -1,0 +1,59 @@
+empresa:
+  nome: "Retifica Severo"
+  segmento: "Retífica de Motores"
+  cidade: "Guarulhos"
+  estado: "SP"
+  pais: "BR"
+  telefone: "5511974624100"
+  whatsapp: "5511974624100"
+  endereco: "Guarulhos - SP"
+  razao_social: "RETIFICA SEVERO"
+  cnpj: "04.455.336/0001-05"
+  horario: "Segunda a Quinta: 08:00 às 18:00 | Sexta: 08:00 às 17:00 (Almoço: 12:00 às 13:00) | Sábado e Domingo: Fechado"
+  horario_estruturado:
+    seg_sex: "Segunda a Quinta: 08:00-12:00, 13:00-18:00 | Sexta: 08:00-12:00, 13:00-17:00"
+    sabado: "Fechado"
+    domingo: "Fechado"
+  latitude: ""
+  longitude: ""
+  price_range: "$$"
+  bairros_atendidos: "Jardim Angélica, Pimentas, Centro de Guarulhos"
+  google_maps_iframe: "https://maps.app.goo.gl/UzBPztLrxVFy62b38"
+  logo_path: "/assets/img/logo.png"
+  redes_sociais:
+    instagram: "https://instagram.com"
+    facebook: ""
+
+branding:
+  tom: "Formal e Técnico"
+  paleta:
+    primaria: "#1743AC"
+    secundaria: "#FFD036"
+    fundo: "#F8F8F8"
+    texto: "#333333"
+    card: "#FFFFFF"
+    footer: "#1A1A1A"
+
+seo:
+  palavra_chave_principal: "retifica de motores em guarulhos"
+  palavras_secundarias:
+    - "retifica de cabeçote guarulhos"
+    - "retifica de bloco de motor"
+    - "retifica de virabrequim pimentas"
+    - "retifica de bielas"
+    - "usinagem de motores guarulhos"
+  area_atuacao: "Guarulhos, SP"
+
+servicos:
+  - nome: "Retífica do Cabeçote"
+    descricao: "Serviço completo de usinagem incluindo plaina (faceamento), assentamento de válvulas, troca de guias/retentores e teste computadorizado de trinca."
+    slug: "retifica-de-cabecote"
+  - nome: "Retífica do Bloco do Motor"
+    descricao: "Brunimento e retífica dos cilindros, encamisamento estrutural e mandrilhamento de precisão do alojamento do virabrequim."
+    slug: "retifica-do-bloco"
+  - nome: "Retífica do Virabrequim"
+    descricao: "Usinagem fina dos colos (mancais e bielas), polimento espelhado do eixo para redução de atrito e nivelamento/alinhamento contra empenamentos."
+    slug: "retifica-de-virabrequim"
+  - nome: "Retífica de Bielas"
+    descricao: "Alinhamento, esquadrejamento completo, troca e mandrilhamento de buchas e ajuste milimétrico da capa da biela."
+    slug: "retifica-de-bielas"
